@@ -8,5 +8,5 @@ class PostApp implements PostRepository {
       : _postRepository = postRepository;
 
   @override
-  Future<List<Post>> ()async => _postRepository.getAllPosts();
+  Future<List<Post>> getAllPosts() async => _postRepository.getAllPosts();
 }
