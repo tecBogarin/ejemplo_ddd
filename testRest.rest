@@ -1,0 +1,11 @@
+GET https://gateway.marvel.com:443/v1/public/comics/35528?ts=1&apikey=fdd81f8150fe737d28325e4608c176ee&hash=0f711a5ed00b4555fb8a2e983d18a374 HTTP/1.1
+
+###
+
+GET https://gateway.marvel.com:443/v1/public/comics/35528?ts=1&apikey=fdd81f8150fe737d28325e4608c176ee&hash=0f711a5ed00b4555fb8a2e983d18a374 HTTP/1.1
+128dfd94695cd53106cf2c858aa22ef7eff54af44fdd81f8150fe737d28325e4608c176ee
+0f711a5ed00b4555fb8a2e983d18a374
+
+###
+
+GET https://jsonplaceholder.typicode.com/posts HTTP/1.1
